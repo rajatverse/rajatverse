@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Patel</h1>
-<h3 align="center">I'm a developer from India. I am passionate about creating new apps.</h3>
+<h3 align="center">Rajat is an Indian web developer with one year of experience in PHP, Laravel, JavaScript, and VueJS. He is focusing on creating modern, responsive, and user-friendly web interfaces using JavaScript and VueJS. Rajat is a highly motivated individual who is constantly seeking new technologies and ways to improve his skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatverse&label=Profile%20views&color=0e75b6&style=flat" alt="rajatverse" /> </p>
 
