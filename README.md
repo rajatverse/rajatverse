@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, JavaScript, Laravel, VueJS**
 
-- 📫 How to reach me **rajatpatel.dm@gmail.com**
+- 📫 How to reach me **rajatpatel.dev@gmail.com**
 
 - ⚡ I am also interested in **learning more about other technologies like Machine Learning, Artificial Intelligence, etc.**
 
